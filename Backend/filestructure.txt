@@ -1,0 +1,7 @@
+|-- .gitignore
+|-- controllers
+|-- model
+|-- package-lock.json
+|-- package.json
+|-- routes
+|-- server.js
