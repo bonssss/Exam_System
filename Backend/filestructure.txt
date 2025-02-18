@@ -1,7 +1,12 @@
 |-- .gitignore
+|-- config
+    |-- cloudinary.js
+    |-- db.js
 |-- controllers
-|-- model
+|-- models
+    |-- User.js
 |-- package-lock.json
 |-- package.json
 |-- routes
 |-- server.js
+|-- uploads
